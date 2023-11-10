@@ -1,1 +1,1 @@
-👋 Hi! I build small Python libraries and command line tools.
+👋 Hi! I build small Python and Rust libraries and command line tools.
